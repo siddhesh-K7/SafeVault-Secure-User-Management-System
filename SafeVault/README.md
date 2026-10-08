@@ -78,13 +78,3 @@ The `Tests/` directory contains automated unit tests verifying that vulnerabilit
 dotnet test
 ```
 
----
-
-## ✅ 30-Point Rubric Checklist
-
-- [x] **5 points** – Public GitHub repository created
-- [x] **5 points** – Copilot used to generate secure input validation and SQL injection prevention
-- [x] **5 points** – Authentication, authorization, and RBAC implemented with Copilot
-- [x] **5 points** – SQL injection and XSS vulnerabilities identified and resolved
-- [x] **5 points** – Security tests generated and executed
-- [x] **5 points** – Vulnerabilities, fixes, and Copilot assistance summarized
